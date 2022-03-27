@@ -22,4 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahsinkoc&show_icons=true&title_color=0bd057&text_color=17e5e8&bg_color=153147&locale=en&layout=compact" alt="tahsinkoc" /></p>
 
-<p>&nbsp;<img align="center" style="margin: 10px 0 !important;" src="https://github-readme-stats.vercel.app/api?username=tahsinkoc&show_icons=true&theme=dark&title_color=0bd057&text_color=17e5e8&bg_color=153147&locale=en" alt="tahsinkoc" /></p>
+<p style="margin: 10px 0 !important;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahsinkoc&show_icons=true&theme=dark&title_color=0bd057&text_color=17e5e8&bg_color=153147&locale=en" alt="tahsinkoc" /></p>
