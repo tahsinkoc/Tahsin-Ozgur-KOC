@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Tailwind CSS and NextJS**
 
-- 💻 I`m mostly develope user interfafaces **with ReactJS & NextJS**
+- 💻 I`m mostly develope user interfafaces **with ReactJS, React Native & NextJS** 
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/tahsinkoc?tab=repositories)
 
