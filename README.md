@@ -12,3 +12,4 @@ Hello,<br><br>I am a passionate software developer, and I spend most of my time 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahsinkoc&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- [![View](https://visitcount.itsvg.in/api?id=tahsinkoc&label=&color=1&icon=6&pretty=false)](https://visitcount.itsvg.in) -->
